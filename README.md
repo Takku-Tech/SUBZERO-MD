@@ -74,7 +74,7 @@ Dont forget to fork & star repo
   <div style="height: 10px;"></div>
   
   > **⚠️ OPTION TWO**
-  <a href='https://subzero-docs.vercel.app' target="_blank">
+  <a href='https://subzeromd.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
@@ -108,6 +108,8 @@ Dont forget to fork & star repo
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
+
+  <td><a href="https://github.com/mrfrankofcc/SUBZERO-MD/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/Panel Zip-000000?style=for-the-badge&logo=bot-hosting&logoColor=white&labelColor=000000&color=blue"/></a></td>
 </div>
 
 <div align="center">
@@ -176,7 +178,7 @@ Dont forget to fork & star repo
 
 ```diff
 + Project Status: Active
-! Version: 3.2.0 Neon Edition
+! Version: 3.6.0 Neon Edition
 # License: APACHE
 ```
 
